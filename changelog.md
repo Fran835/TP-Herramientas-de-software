@@ -10,3 +10,6 @@ Todas las novedades del trabajo seran documentadas en este archivo-
 ## - 19/04/2026
 ### Añadido
 - Ejercicio 2: Descarga del dataset original y guardado en la carpeta urban_flow/data/raw.
+## - 20/04/2026
+### Añadido
+- Ejercicio 3: Utilizanción de Pandas

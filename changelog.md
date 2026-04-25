@@ -19,3 +19,6 @@ Todas las novedades del trabajo seran documentadas en este archivo-
 ## - 22/04/2026
 ### Añadido
 - Ejercicio 5: Graficos
+## - 23/04/2026
+### Añadido
+- Ejercicio 6: porcentaje infraccion

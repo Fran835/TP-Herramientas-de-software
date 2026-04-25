@@ -13,3 +13,6 @@ Todas las novedades del trabajo seran documentadas en este archivo-
 ## - 20/04/2026
 ### Añadido
 - Ejercicio 3: Utilizanción de Pandas
+## - 21/04/2026
+### Añadido
+- Ejercicio 4: clase FineAnalyzer

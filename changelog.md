@@ -16,3 +16,6 @@ Todas las novedades del trabajo seran documentadas en este archivo-
 ## - 21/04/2026
 ### Añadido
 - Ejercicio 4: clase FineAnalyzer
+## - 22/04/2026
+### Añadido
+- Ejercicio 5: Graficos

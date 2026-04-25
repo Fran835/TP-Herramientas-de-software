@@ -22,3 +22,6 @@ Todas las novedades del trabajo seran documentadas en este archivo-
 ## - 23/04/2026
 ### Añadido
 - Ejercicio 6: porcentaje infraccion
+## - 24/04/2026
+### Añadido
+- Ejercicio 7: Creación de README.md con la conclusión 
